@@ -284,6 +284,13 @@ footer {
         padding: 0;
     }
 
+    #times > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
+
 }
 
 /* For tablets and medium screens 950px wide and below*/
