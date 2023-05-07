@@ -325,4 +325,15 @@ footer {
         text-align: center;
         padding-top: 10px 0 20px;
     }
+
+    #photos {
+        column-count: 3;
+    }
+}
+
+/*for smaller screens  of 800px wide and below*/
+@media screen and (max-width: 800px) {
+    #photos {
+        column-count: 2;
+    }
 }
